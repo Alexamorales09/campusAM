@@ -34,3 +34,14 @@
 .form-hombre{
     margin-right: 5rem;
 }
+.regreso{
+    text-decoration: none;
+}
+.inscripcion{
+    margin: 500px;
+    margin-top: 15px;
+}
+.cards2{
+    display: flex;
+    margin-top: 1rem;
+}
