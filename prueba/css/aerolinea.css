@@ -1,0 +1,36 @@
+.ttprincipal{
+    text-decoration: none;
+}
+.registro{
+    margin: 500px;
+    margin-top: 15px;
+}
+.tituloregistro{
+    text-align: center;
+}
+.compra{
+    margin: 500px;
+    margin-top: 15px;
+}
+.titulovuelo{
+    text-align: center;
+}
+.piloto{
+    margin-left: 95px;
+}
+.card{
+    margin-left: 20px;
+}
+.cards{
+    display: flex;
+    margin-left: 7rem;
+    margin-top: 7rem;
+}
+.genero{
+    display: flex;
+    margin-left: 50rem;
+    margin-top: 3rem;
+}
+.form-hombre{
+    margin-right: 5rem;
+}
